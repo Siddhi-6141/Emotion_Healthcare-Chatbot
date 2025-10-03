@@ -1,0 +1,31 @@
+# Ignore environment variable files
+.env
+env
+prototype/env
+prototype/.env
+
+# Python cache my parshav bhaya
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+assessli_frontend/healthcare_chatbot _frontend/node_modules
+
+# Generated files
+*.csv
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+backend/chat_memory/
+backend/myenv312/
+backend/user_profiles.json
+frontend/.next/
+frontend/node_modules/
+
